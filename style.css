@@ -29,16 +29,16 @@
     position: absolute;
   }
 
-  #rock{
+  #Rock{
     margin-right: 26.5rem;
     margin-top: 13rem;
   }
 
-  #paper{
+  #Paper{
     margin-top: 13rem;
   }
 
-  #scissors{
+  #Scissors{
     margin-left: 26.5rem;
     margin-top: 13rem;
   }
